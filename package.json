@@ -1,0 +1,44 @@
+{
+  "name": "bc-mailer-config",
+  "version": "0.0.1",
+  "homepage": "https://github.com/buttercoin/bc-mailer-config",
+  "author": {
+    "name": "Kevin Adams",
+    "email": "kevin@buttercoin.com",
+    "url": "http://www.buttercoin.com"
+  },
+  "description": "Express Middleware Module for configuring node-mailer in Mimosa",
+  "contributors": [
+    {
+      "name": "Kevin Adams",
+      "email": "kevin@buttercoin.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/buttercoin/bc-mailer-config"
+  },
+  "keywords": [
+    "node-mailer",
+    "config",
+    "package",
+    "packaging"
+  ],
+  "dependencies": {
+    "nodemailer": "0.5.2"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8"
+  },
+  "main": "./lib/index",
+  "readme": "bc-admin-auth\n===========\n\nThis is an Express Middleware module for configuring node-mailer in Mimosa",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/buttercoin/bc-mailer-config/issues"
+  },
+  "_id": "bc-mailer-config@0.0.1",
+  "_from": "bc-mailer-config@"
+}
+
+
